@@ -2,11 +2,19 @@
 
 <p align="left">
   <a href="https://github.com/obaya884">
-    <img src="https://komarev.com/ghpvc/?username=obaya884&style=flat-square" />
+    <img src="https://komarev.com/ghpvc/?username=obaya884&style=flat" />
   </a>
   <a href="http://twitter.com/obaya884">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/obaya884?color=1DA1F2&label=twitter&logo=twitter&style=flat-square">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/obaya884?color=1DA1F2&label=twitter&logo=twitter&style=flat">
   </a>
+  <a href="https://github.com/obaya884">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/obaya884?logo=github">
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Swift-efefef.svg?logo=swift&style=plastic"> 
+  <img src="https://img.shields.io/badge/-Kotlin-efefef.svg?logo=kotlin&style=plastic">
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=obaya884&rank=-C&theme=gruvbox&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
