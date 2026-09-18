@@ -21,7 +21,7 @@
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,gcp,postgres,mysql&theme=dark">
-    <img src="https://skillicons.dev/icons?i=docker,gcp,postgres,mysql&theme=light" alt="Infrastructure and databases: Docker, Google Cloud, PostgreSQL, MySQL">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,aws,gcp,postgres,mysql&theme=dark">
+    <img src="https://skillicons.dev/icons?i=docker,aws,gcp,postgres,mysql&theme=light" alt="Infrastructure and databases: Docker, AWS, Google Cloud, PostgreSQL, MySQL">
   </picture>
 </p>
